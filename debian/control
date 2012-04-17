@@ -1,0 +1,25 @@
+Source: archeos-meta
+Section: metapackages
+Priority: optional
+Maintainer: Fabrizio Furnari <fab.furnari@gmail.com>
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 7.0.8)
+
+Package: archeos-system
+Architecture: any
+Depends: archeos-3d, archeos-gps, archeos-gis, archeos-cad, archeos-db, 
+ archeos-graphics, archeos-photogrammetry, archeos-scienge, archeos-other
+Description: ArcheOS main metapackage
+ This package depends on all of the metapackages in the ArcheOS system.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: archeos-gis
+Architecture: any
+Depends: 
+Description: ArcheOS Geographic Information System
+ This package depends on all of the packages in the ArcheOS GIS section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
