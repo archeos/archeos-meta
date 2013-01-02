@@ -1,3 +1,9 @@
+archeos-meta (0.2) theodoric; urgency=low
+
+  * Added all metapackages for ArcheOS sections
+
+ -- Fabrizio Furnari <ffurnari@expedia.com>  Wed, 02 Jan 2013 12:02:51 +0100
+
 archeos-meta (0.1) caesar; urgency=low
 
   * Initial release. (Closes: nothing)
