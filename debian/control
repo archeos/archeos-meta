@@ -6,7 +6,7 @@ Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 7.0.8)
 
 Package: archeos-system
-Architecture: any
+Architecture: all
 Depends: archeos-3d, archeos-gps, archeos-gis, archeos-cad, archeos-db, 
  archeos-graphics, archeos-photogrammetry, archeos-science, archeos-other
 Description: ArcheOS main metapackage
@@ -16,7 +16,7 @@ Description: ArcheOS main metapackage
  it not be removed.
 
 Package: archeos-3d
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS 3D metapackage
  This package depends on all of the packages in the ArcheOS 3D section.
@@ -25,7 +25,7 @@ Description: ArcheOS 3D metapackage
  it not be removed.
 
 Package: archeos-gps
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS GPS metapackage
  This package depends on all of the packages in the ArcheOS GIS section.
@@ -34,7 +34,7 @@ Description: ArcheOS GPS metapackage
  it not be removed.
 
 Package: archeos-gis
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS GIS metapackage
  This package depends on all of the packages in the ArcheOS GIS section.
@@ -43,7 +43,7 @@ Description: ArcheOS GIS metapackage
  it not be removed.
 
 Package: archeos-cad
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS 3D metapackage
  This package depends on all of the packages in the ArcheOS 3D section.
@@ -52,7 +52,7 @@ Description: ArcheOS 3D metapackage
  it not be removed.
 
 Package: archeos-db
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS DB metapackage
  This package depends on all of the packages in the ArcheOS DB section.
@@ -61,7 +61,7 @@ Description: ArcheOS DB metapackage
  it not be removed.
 
 Package: archeos-graphics
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS Graphics metapackage
  This package depends on all of the packages in the ArcheOS Graphics section.
@@ -70,7 +70,7 @@ Description: ArcheOS Graphics metapackage
  it not be removed.
 
 Package: archeos-photogrammetry
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS Photogrammetry metapackage
  This package depends on all of the packages in the ArcheOS Photogrammetry section.
@@ -79,7 +79,7 @@ Description: ArcheOS Photogrammetry metapackage
  it not be removed.
 
 Package: archeos-science
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS Science metapackage
  This package depends on all of the packages in the ArcheOS Science section.
@@ -88,7 +88,7 @@ Description: ArcheOS Science metapackage
  it not be removed.
 
 Package: archeos-other
-Architecture: any
+Architecture: all
 Depends: 
 Description: ArcheOS other metapackage
  This package depends on all of the packages in the ArcheOS other section.
