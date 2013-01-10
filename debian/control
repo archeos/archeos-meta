@@ -80,7 +80,7 @@ Description: ArcheOS Photogrammetry metapackage
 
 Package: archeos-science
 Architecture: all
-Depends: 
+Depends: marble, marble-plugins
 Description: ArcheOS Science metapackage
  This package depends on all of the packages in the ArcheOS Science section.
  .
