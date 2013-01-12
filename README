@@ -1,4 +1,0 @@
-This metapackage is used to build most of ArcheOS metapackage, including archeos-system.
-Edit it as any other debian source package.
-Remember to tag versions.
-
