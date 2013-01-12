@@ -1,3 +1,9 @@
+archeos-meta (0.3) theodoric; urgency=low
+
+  * Addeed some misc:depends, ovoiding some lintian complaints
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Sat, 12 Jan 2013 23:47:13 +0100
+
 archeos-meta (0.2) theodoric; urgency=low
 
   * Added all metapackages for ArcheOS sections
