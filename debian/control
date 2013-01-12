@@ -2,7 +2,7 @@ Source: archeos-meta
 Section: metapackages
 Priority: optional
 Maintainer: Fabrizio Furnari <fab.furnari@gmail.com>
-Standards-Version: 3.9.2
+Standards-Version: 3.9.3
 Build-Depends: debhelper (>= 7.0.8)
 
 Package: archeos-system
@@ -91,7 +91,7 @@ Description: ArcheOS Science metapackage
 
 Package: archeos-other
 Architecture: all
-Depends: 
+Depends: ${misc:Depends}
 Description: ArcheOS other metapackage
  This package depends on all of the packages in the ArcheOS other section.
  .
