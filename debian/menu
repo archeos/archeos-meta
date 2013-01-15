@@ -1,0 +1,3 @@
+?package(archeos-meta):needs=X11|wm section=Help\
+  title="ArcheOS website" \
+  command="/usr/bin/x-www-browser http://www.archeos.eu"
