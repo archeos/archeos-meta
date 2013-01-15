@@ -6,7 +6,7 @@ Standards-Version: 3.9.3
 Build-Depends: debhelper (>= 7.0.8)
 Vcs-Git: git://github.com/archeos/archeos-meta.git
 Vcs-Browser: https://github.com/archeos/archeos-meta
-Homepage: https://www.archeos.eu
+Homepage: http://www.archeos.eu
 
 Package: archeos-system
 Architecture: all
