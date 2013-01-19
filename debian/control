@@ -48,7 +48,7 @@ Description: ArcheOS GIS metapackage
 
 Package: archeos-cad
 Architecture: all
-Depends: ${misc:Depends}
+Depends: librecad, freecad, ${misc:Depends}
 Description: ArcheOS 3D metapackage
  This package depends on all of the packages in the ArcheOS 3D section.
  .
