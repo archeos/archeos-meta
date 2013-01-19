@@ -1,3 +1,16 @@
+archeos-meta (0.5) theodoric; urgency=low
+
+  [ Fabrizio Furnari ]
+  * Added (test) menu entry
+  * renamed menu
+  * Added package shutter. Closes archeos/ArcheOS#51
+  * Fixed homepage, closes #1
+
+  [ Luca Bezzi ]
+  * Update debian/control
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Sat, 19 Jan 2013 17:45:21 +0100
+
 archeos-meta (0.4) theodoric; urgency=low
 
   * usual changelog commit
