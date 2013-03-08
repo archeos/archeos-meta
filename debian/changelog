@@ -1,3 +1,9 @@
+archeos-meta (0.6) theodoric; urgency=low
+
+  * Added micmac and ppt
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Fri, 08 Mar 2013 12:28:14 +0100
+
 archeos-meta (0.5) theodoric; urgency=low
 
   [ Fabrizio Furnari ]
