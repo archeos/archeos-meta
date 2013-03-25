@@ -1,3 +1,9 @@
+archeos-meta (0.7) theodoric; urgency=low
+
+  * temporary removed freecad that has been removed from testing
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 25 Mar 2013 15:25:31 +0100
+
 archeos-meta (0.6) theodoric; urgency=low
 
   * Added micmac and ppt
