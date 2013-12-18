@@ -66,7 +66,7 @@ Description: ArcheOS DB metapackage
 
 Package: archeos-graphics
 Architecture: all
-Depends: shutter, ${misc:Depends}
+Depends: shutter, darktable, ${misc:Depends}
 Description: ArcheOS Graphics metapackage
  This package depends on all of the packages in the ArcheOS Graphics section.
  .
