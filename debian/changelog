@@ -1,3 +1,12 @@
+archeos-meta (0.8+nmu1) theodoric; urgency=low
+
+  * Non-maintainer upload.
+  * Add darktable, close archeos/Archeos#79
+  * Add Meshlab and CloudCompare
+  * Add rectification, fix #5
+
+ -- Romain Janvier <romain.janvier@hotmail.fr>  Mon, 23 Dec 2013 02:45:09 +0100
+
 archeos-meta (0.7) theodoric; urgency=low
 
   * temporary removed freecad that has been removed from testing
