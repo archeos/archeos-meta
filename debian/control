@@ -75,7 +75,7 @@ Description: ArcheOS Graphics metapackage
 
 Package: archeos-photogrammetry
 Architecture: all
-Depends: ppt, ppt-gui, micmac, ${misc:Depends}
+Depends: ppt, ppt-gui, micmac, rectification, ${misc:Depends}
 Description: ArcheOS Photogrammetry metapackage
  This package depends on all of the packages in the ArcheOS 
  Photogrammetry section.
