@@ -85,7 +85,7 @@ Description: ArcheOS Photogrammetry metapackage
  
 Package: archeos-publishing
 Architecture: all
-Depends: texmaker, jabref, ipe, lyx, ${misc:Depends}
+Depends: texmaker, jabref, ipe, scribus, lyx, ${misc:Depends}
 Description: ArcheOS Publishing metapackage
  This package depends on all of the packages in the ArcheOS Publishing section.
  .
