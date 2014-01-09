@@ -1,3 +1,11 @@
+archeos-meta (0.9) theodoric; urgency=low
+
+  * Non-maintainer upload.
+  * Add IPE to close archeos/Archeos#14
+  * Add Add archeos-publishing metapackage (Texmaker, Jabref, IPE, Lyx, Scribus) to close archeos/Archeos#37
+
+ -- Luca Bezzi <luca.bezzi@arc-team.com>  Thu, 9 Jan 2014 13:50:09 +0100
+
 archeos-meta (0.8+nmu1) theodoric; urgency=low
 
   * Non-maintainer upload.
