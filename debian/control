@@ -11,7 +11,7 @@ Homepage: http://www.archeos.eu
 Package: archeos-system
 Architecture: all
 Depends: archeos-3d, archeos-gps, archeos-gis, archeos-cad, archeos-db, 
- archeos-graphics, archeos-photogrammetry, archeos-science, archeos-other,
+ archeos-graphics, archeos-photogrammetry, archeos-publishing, archeos-science, archeos-other,
  ${misc:Depends}
 Description: ArcheOS main metapackage
  This package depends on all of the metapackages in the ArcheOS system.
@@ -82,6 +82,15 @@ Description: ArcheOS Photogrammetry metapackage
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+ 
+Package: archeos-publishing
+Architecture: all
+Depends: texmaker, jabref, ipe, lyx, ${misc:Depends}
+Description: ArcheOS Publishing metapackage
+ This package depends on all of the packages in the ArcheOS Publishing section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed. 
 
 Package: archeos-science
 Architecture: all
