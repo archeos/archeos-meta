@@ -57,7 +57,7 @@ Description: ArcheOS 3D metapackage
 
 Package: archeos-db
 Architecture: all
-Depends: ${misc:Depends}
+Depends: pgadmin3, phppgadmin, postgresql, postgis, sqlite3, sqlitebrowser, spatialite-bin, ${misc:Depends}
 Description: ArcheOS DB metapackage
  This package depends on all of the packages in the ArcheOS DB section.
  .
