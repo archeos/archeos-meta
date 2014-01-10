@@ -10,7 +10,7 @@ Homepage: http://www.archeos.eu
 
 Package: archeos-system
 Architecture: all
-Depends: archeos-3d, archeos-gps, archeos-gis, archeos-cad, archeos-db, 
+Depends: archeos-3d, archeos-dendrochronology, archeos-gps, archeos-gis, archeos-cad, archeos-db, 
  archeos-graphics, archeos-photogrammetry, archeos-publishing, archeos-science, archeos-other,
  ${misc:Depends}
 Description: ArcheOS main metapackage
@@ -31,7 +31,7 @@ Description: ArcheOS 3D metapackage
 Package: archeos-dendrochronology
 Architecture: all
 Depends: ${misc:Depends}
-Description: ArcheOS 3D metapackage
+Description: ArcheOS dendrochronology metapackage
  This package depends on all of the packages in the ArcheOS dendrochronology section.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
@@ -58,7 +58,7 @@ Description: ArcheOS GIS metapackage
 Package: archeos-cad
 Architecture: all
 Depends: librecad, ${misc:Depends}
-Description: ArcheOS 3D metapackage
+Description: ArcheOS CAD metapackage
  This package depends on all of the packages in the ArcheOS CAD section.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
