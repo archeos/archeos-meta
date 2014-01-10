@@ -28,6 +28,15 @@ Description: ArcheOS 3D metapackage
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
+Package: archeos-dendrochronology
+Architecture: all
+Depends: ${misc:Depends}
+Description: ArcheOS 3D metapackage
+ This package depends on all of the packages in the ArcheOS dendrochronology section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
 Package: archeos-gps
 Architecture: all
 Depends: ${misc:Depends}
@@ -50,7 +59,7 @@ Package: archeos-cad
 Architecture: all
 Depends: librecad, ${misc:Depends}
 Description: ArcheOS 3D metapackage
- This package depends on all of the packages in the ArcheOS 3D section.
+ This package depends on all of the packages in the ArcheOS CAD section.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
