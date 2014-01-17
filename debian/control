@@ -39,7 +39,7 @@ Description: ArcheOS dendrochronology metapackage
 
 Package: archeos-gps
 Architecture: all
-Depends: ${misc:Depends}
+Depends: gpsbabel, ${misc:Depends}
 Description: ArcheOS GPS metapackage
  This package depends on all of the packages in the ArcheOS GIS section.
  .
@@ -48,7 +48,7 @@ Description: ArcheOS GPS metapackage
 
 Package: archeos-gis
 Architecture: all
-Depends: ${misc:Depends}
+Depends: grass, qgis, ${misc:Depends}
 Description: ArcheOS GIS metapackage
  This package depends on all of the packages in the ArcheOS GIS section.
  .

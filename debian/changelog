@@ -3,8 +3,11 @@ archeos-meta (0.11) theodoric; urgency=low
   [ Luca Bezzi ]
   * Update control
   * Update control
+  * Non-maintainer upload.
+  * Add grass, qgis to archeos-gis metapackage
+  * Add gpsbabel to archeos-gps metapackage
 
- -- Fabrizio Furnari <fab.furnari@gmail.com>  Fri, 10 Jan 2014 09:28:29 +0100
+ -- Luca Bezzi <luca.bezzi@arc-team.com>  Fri, 17 Jan 2014 17:50:23 +0100
 
 archeos-meta (0.10) theodoric; urgency=low
 
