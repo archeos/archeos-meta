@@ -21,7 +21,7 @@ Description: ArcheOS main metapackage
 
 Package: archeos-3d
 Architecture: all
-Depends: cloudcompare, meshlab, ${misc:Depends}
+Depends: blender, cloudcompare, meshlab, whitedune, ${misc:Depends}
 Description: ArcheOS 3D metapackage
  This package depends on all of the packages in the ArcheOS 3D section.
  .
