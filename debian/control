@@ -75,12 +75,31 @@ Description: ArcheOS DB metapackage
 
 Package: archeos-graphics
 Architecture: all
-Depends: shutter, darktable, ${misc:Depends}
+Depends: darktable, gimp, geeqie, inkscape, shutter, ${misc:Depends}
 Description: ArcheOS Graphics metapackage
  This package depends on all of the packages in the ArcheOS Graphics section.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+ 
+
+Package: archeos-internet
+Architecture: all
+Depends: bluefish, icedove, iceweasel, ${misc:Depends}
+Description: ArcheOS Internet metapackage
+ This package depends on all of the packages in the ArcheOS Internet section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed. 
+ 
+Package: archeos-office
+Architecture: all
+Depends: libreoffice, ${misc:Depends}
+Description: ArcheOS Office metapackage
+ This package depends on all of the packages in the ArcheOS Office section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.  
 
 Package: archeos-photogrammetry
 Architecture: all
@@ -94,7 +113,7 @@ Description: ArcheOS Photogrammetry metapackage
  
 Package: archeos-publishing
 Architecture: all
-Depends: texmaker, jabref, ipe, scribus, lyx, ${misc:Depends}
+Depends: texmaker, texlive-fonts-extra, jabref, ipe, scribus, lyx, ${misc:Depends}
 Description: ArcheOS Publishing metapackage
  This package depends on all of the packages in the ArcheOS Publishing section.
  .
@@ -106,6 +125,15 @@ Architecture: all
 Depends: marble, marble-plugins, ${misc:Depends}
 Description: ArcheOS Science metapackage
  This package depends on all of the packages in the ArcheOS Science section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: archeos-statistics
+Architecture: all
+Depends: r-base, ${misc:Depends}
+Description: ArcheOS Statistics metapackage
+ This package depends on all of the packages in the ArcheOS Statistics section.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
