@@ -1,3 +1,14 @@
+archeos-meta (0.14) theodoric; urgency=low
+
+  [ Luca Bezzi ]
+  * Update control
+  * Non-maintainer upload.
+  * Add gimp, geeqie, inkscape to archeos-graphic metapackage
+  * Add libreoffice to archeos-office metapackage 
+  * Add bluefish, icedove, iceweasel to archeos-internet metapackage
+
+ -- Luca Bezzi <luca.bezzi@arc-team.com>  Mon, 20 Jan 2014 08:59:13 +0100
+
 archeos-meta (0.13) theodoric; urgency=low
 
   [ Luca Bezzi ]
