@@ -1,3 +1,12 @@
+archeos-meta (0.15) theodoric; urgency=low
+
+  [ Luca Bezzi ]
+  * Update control
+  * Non-maintainer upload.
+  * Added bundlersfm, cmvspmvs, libvlfeat0, libvlfeat-utils to archeos-photogrammetry metapackage
+
+ -- Luca Bezzi <luca.bezzi@arc-team.com>  Tue, 4 Feb 2014 15:20:34 +0100
+
 archeos-meta (0.14) theodoric; urgency=low
 
   [ Luca Bezzi ]
