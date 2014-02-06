@@ -137,6 +137,16 @@ Description: ArcheOS Statistics metapackage
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+ 
+ 
+Package: archeos-webgis
+Architecture: all
+Depends: josm, mapserver-bin, ${misc:Depends}
+Description: ArcheOS WebGIS metapackage
+ This package depends on all of the packages in the ArcheOS WebGIS section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed. 
 
 Package: archeos-other
 Architecture: all
