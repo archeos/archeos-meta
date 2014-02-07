@@ -1,3 +1,13 @@
+archeos-meta (0.18) theodoric; urgency=medium
+
+  [ Luca Bezzi ]
+  * Update control
+
+  [ Fabrizio Furnari ]
+  * Added makehuman
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Fri, 07 Feb 2014 10:55:09 +0100
+
 archeos-meta (0.17) theodoric; urgency=medium
 
   [ Luca Bezzi ]
