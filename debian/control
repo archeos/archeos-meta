@@ -75,7 +75,7 @@ Description: ArcheOS DB metapackage
 
 Package: archeos-graphics
 Architecture: all
-Depends: darktable, gimp, geeqie, imagej, inkscape, shutter, ${misc:Depends}
+Depends: darktable, gimp, gimp-lensfun, gimp-plugin-registry, geeqie, imagej, inkscape, shutter, ${misc:Depends}
 Description: ArcheOS Graphics metapackage
  This package depends on all of the packages in the ArcheOS Graphics section.
  .
