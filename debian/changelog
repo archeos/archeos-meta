@@ -1,3 +1,12 @@
+archeos-meta (0.22) theodoric; urgency=medium
+
+  [ Luca Bezzi ]
+  * Added qgis extra packages
+
+  [ Fabrizio Furnari ]
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 22 Apr 2014 10:38:05 +0200
+
 archeos-meta (0.21) theodoric; urgency=low
 
   [ Luca Bezzi ]
