@@ -10,9 +10,23 @@ Homepage: http://www.archeos.eu
 
 Package: archeos-system
 Architecture: all
-Depends: archeos-3d, archeos-dendrochronology, archeos-gps, archeos-gis, archeos-cad, archeos-db, 
- archeos-graphics, archeos-photogrammetry, archeos-publishing, archeos-science, archeos-statistics, archeos-webgis, archeos-other,
- ${misc:Depends}
+Depends: archeos-3d,
+         archeos-dendrochronology,
+         archeos-gps,
+         archeos-gis,
+         archeos-cad,
+         archeos-db,
+         archeos-graphics,
+         archeos-internet,
+         archeos-office,
+         archeos-photogrammetry,
+         archeos-publishing,
+         archeos-science,
+         archeos-statistics,
+         archeos-utilities,
+         archeos-webgis,
+         archeos-other,
+         ${misc:Depends}
 Description: ArcheOS main metapackage
  This package depends on all of the metapackages in the ArcheOS system.
  .
