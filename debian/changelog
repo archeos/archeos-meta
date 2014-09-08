@@ -1,3 +1,9 @@
+archeos-meta (0.26) theodoric; urgency=medium
+
+  * closes archeos/ArcheOS#106
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 08 Sep 2014 13:44:07 +0200
+
 archeos-meta (0.25) theodoric; urgency=medium
 
   * added less
