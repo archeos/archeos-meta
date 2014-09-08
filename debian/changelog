@@ -1,3 +1,9 @@
+archeos-meta (0.25) theodoric; urgency=medium
+
+  * added less
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 08 Sep 2014 11:29:17 +0200
+
 archeos-meta (0.24) theodoric; urgency=medium
 
   [ Luca Bezzi ]
