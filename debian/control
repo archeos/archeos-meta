@@ -154,7 +154,7 @@ Description: ArcheOS Statistics metapackage
  
 Package: archeos-utilities
 Architecture: all
-Depends: synaptic, file-roller, ${misc:Depends}
+Depends: synaptic, file-roller, less, ${misc:Depends}
 Description: ArcheOS utilities metapackage
  This package depends on all of the packages in the ArcheOS Statistics section.
  .
