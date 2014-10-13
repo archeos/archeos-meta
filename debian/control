@@ -108,7 +108,7 @@ Description: ArcheOS Internet metapackage
  
 Package: archeos-office
 Architecture: all
-Depends: kate, libreoffice, ${misc:Depends}
+Depends: geany, libreoffice, ${misc:Depends}
 Description: ArcheOS Office metapackage
  This package depends on all of the packages in the ArcheOS Office section.
  .
