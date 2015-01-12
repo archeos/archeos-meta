@@ -62,7 +62,7 @@ Description: ArcheOS GPS metapackage
 
 Package: archeos-gis
 Architecture: all
-Depends: grass, qgis, python-qgis, qgis-plugin-grass, ${misc:Depends}
+Depends: grass, openjump, qgis, python-qgis, qgis-plugin-grass, ${misc:Depends}
 Description: ArcheOS GIS metapackage
  This package depends on all of the packages in the ArcheOS GIS section.
  .
