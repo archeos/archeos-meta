@@ -1,3 +1,19 @@
+archeos-meta (5.0) theodoric; urgency=medium
+
+  [ Luca Bezzi ]
+  * Update control
+
+  [ Fabrizio Furnari ]
+  * Revert "Update control"
+
+  [ Luca Bezzi ]
+  * added openjump
+
+  [ Fabrizio Furnari ]
+  * documentation moved
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 23 Feb 2015 13:01:01 +0100
+
 archeos-meta (0.27) theodoric; urgency=medium
 
   * closes archeos/ArcheOS#106
