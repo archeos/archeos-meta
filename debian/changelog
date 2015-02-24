@@ -1,3 +1,9 @@
+archeos-meta (5.1) theodoric; urgency=medium
+
+  * added tellervo
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 24 Feb 2015 17:34:38 +0100
+
 archeos-meta (5.0) theodoric; urgency=medium
 
   [ Luca Bezzi ]
