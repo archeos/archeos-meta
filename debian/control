@@ -33,6 +33,55 @@ Description: ArcheOS main metapackage
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
+Package: archeos-desktop
+Architecture: all
+Depends: archeos-keyring,
+         archeos-menu,
+         archeos-system,
+         archeos-tasks,
+         archeos-manual,
+         gdm3,
+         desktop-base,
+         gnome-core,
+         locales,
+         menu,
+         sudo,
+         ${misc:Depends}
+Description: Standard base desktop metapackage
+ This metapackage depends on all of the software needed to build a standard
+ ArcheOS environment.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: archeos-desktop-xfce
+Architecture: all
+Depends: archeos-keyring,
+         archeos-menu,
+         archeos-system,
+         archeos-tasks,
+         archeos-manual,
+         lightdm,
+         desktop-base,
+         xfce4,
+         xfce4-goodies,
+         locales,
+         menu,
+         sudo,
+         ${misc:Depends}
+Description: Standard base desktop metapackage (XFCE4)
+ This metapackage depends on all of the software needed to build a standard
+ ArcheOS environment and installs xfce4 instead of gnome.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: archeos-tasks
+Architecture: all
+Depends: tasksel (>=3.00)
+Description: ArcheOS tasks for tasksel.
+ This package provides ArcheOS tasks in tasksel.
+
 Package: archeos-3d
 Architecture: all
 Depends: blender, cloudcompare, makehuman, meshlab, invesalius-3.0, whitedune, ${misc:Depends}
