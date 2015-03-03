@@ -1,0 +1,10 @@
+Task: Photogrammetry
+Leaf: false
+Architecture: any
+Description: ArcheOS photogrammetry related applications
+ This metapackage depends on various applications that can be used to work on
+ photogrammetry software
+ .
+
+Depends: archeos-photogrammetry
+Recommends: archeos-menus

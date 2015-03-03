@@ -1,0 +1,10 @@
+Task: Other
+Leaf: false
+Architecture: any
+Description: ArcheOS other applications
+ This metapackage depends on various applications that doesn't fit into other
+ tasks.
+ .
+
+Depends: archeos-other
+Recommends: archeos-menus

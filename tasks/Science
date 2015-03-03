@@ -1,0 +1,9 @@
+Task: Science
+Leaf: false
+Architecture: any
+Description: ArcheOS science related applications
+ This metapackage depends on various science applications.
+ .
+
+Depends: archeos-science
+Recommends: archeos-menus

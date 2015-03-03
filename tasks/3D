@@ -1,0 +1,10 @@
+Task: 3D
+Leaf: false
+Architecture: any
+Description: ArcheOS 3D related applications
+ This metapackage depends on various applications that can be used to work on
+ 3D models
+ .
+
+Depends: archeos-3d
+Recommends: archeos-menus

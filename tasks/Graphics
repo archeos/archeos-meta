@@ -1,0 +1,10 @@
+Task: Graphics
+Leaf: false
+Architecture: any
+Description: ArcheOS graphics related applications
+ This metapackage depends on various applications that can be used to work on
+ various graphic formats.
+ .
+
+Depends: archeos-graphics
+Recommends: archeos-menus

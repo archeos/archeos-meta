@@ -1,0 +1,10 @@
+Task: Database
+Leaf: false
+Architecture: any
+Description: ArcheOS database related applications
+ This metapackage depends on various applications that can be used to work on
+ various database.
+ .
+
+Depends: archeos-db
+Recommends: archeos-menus

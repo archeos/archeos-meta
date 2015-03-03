@@ -1,0 +1,10 @@
+Task: CAD
+Leaf: false
+Architecture: any
+Description: ArcheOS CAD related applications
+ This metapackage depends on various applications that can be used to work on
+ CAD software.
+ .
+
+Depends: archeos-cad
+Recommends: archeos-menus

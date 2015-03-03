@@ -1,0 +1,10 @@
+Task: GIS
+Leaf: false
+Architecture: any
+Description: ArcheOS GPS related applications
+ This metapackage depends on various applications that can be used to work on
+ GIS data.
+ .
+
+Depends: archeos-gis
+Recommends: archeos-menus
