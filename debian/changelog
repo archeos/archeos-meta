@@ -1,3 +1,9 @@
+archeos-meta (5.2) theodoric; urgency=medium
+
+  * merging metapackages
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 03 Mar 2015 14:39:54 +0100
+
 archeos-meta (5.1) theodoric; urgency=medium
 
   * added tellervo
