@@ -204,7 +204,7 @@ Description: ArcheOS Science metapackage
 
 Package: archeos-statistics
 Architecture: all
-Depends: r-base, r-studio, ${misc:Depends}
+Depends: r-base, rstudio, ${misc:Depends}
 Description: ArcheOS Statistics metapackage
  This package depends on all of the packages in the ArcheOS Statistics section.
  .
