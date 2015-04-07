@@ -14,6 +14,7 @@ Depends: archeos-3d,
          archeos-dendrochronology,
          archeos-gps,
          archeos-gis,
+         archeos-hardware,
          archeos-cad,
          archeos-db,
          archeos-graphics,
@@ -117,6 +118,15 @@ Description: ArcheOS GIS metapackage
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+ 
+Package: archeos-hardware
+Architecture: all
+Depends: python-totalopenstation, cura, ${misc:Depends}
+Description: ArcheOS hardware metapackage
+ This package depends on all of the packages in the ArcheOS hardware section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed. 
 
 Package: archeos-cad
 Architecture: all
@@ -194,7 +204,7 @@ Description: ArcheOS Science metapackage
 
 Package: archeos-statistics
 Architecture: all
-Depends: r-base, ${misc:Depends}
+Depends: r-base, r-studio, ${misc:Depends}
 Description: ArcheOS Statistics metapackage
  This package depends on all of the packages in the ArcheOS Statistics section.
  .
