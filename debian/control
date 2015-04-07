@@ -117,6 +117,15 @@ Description: ArcheOS GIS metapackage
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+ 
+Package: archeos-hardware
+Architecture: all
+Depends: python-totalopenstation, ${misc:Depends}
+Description: ArcheOS hardware metapackage
+ This package depends on all of the packages in the ArcheOS hardware section.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed. 
 
 Package: archeos-cad
 Architecture: all
