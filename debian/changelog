@@ -1,3 +1,15 @@
+archeos-meta (5.3) theodoric; urgency=medium
+
+  [ Luca Bezzi ]
+  * Hardware section
+  * archeos-hardware dependency
+  * Added Cura
+  * r-studio
+
+  [ Fabrizio Furnari ]
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 07 Apr 2015 16:38:03 +0200
+
 archeos-meta (5.2) theodoric; urgency=medium
 
   * merging metapackages
