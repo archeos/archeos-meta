@@ -1,3 +1,10 @@
+archeos-meta (5.6) theodoric; urgency=medium
+
+  * Update README.rst
+  * Renamed to reflect builder name
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Mon, 27 Apr 2015 12:36:50 +0200
+
 archeos-meta (5.5) theodoric; urgency=medium
 
   * renamed totalopenstation package
