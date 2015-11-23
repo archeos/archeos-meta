@@ -85,7 +85,7 @@ Description: ArcheOS tasks for tasksel.
 
 Package: archeos-3d
 Architecture: all
-Depends: blender, cloudcompare, makehuman, meshlab, invesalius-3.0, whitedune, ${misc:Depends}
+Depends: blender, cloudcompare, makehuman, meshlab, invesalius, whitedune, ${misc:Depends}
 Description: ArcheOS 3D metapackage
  This package depends on all of the packages in the ArcheOS 3D section.
  .
