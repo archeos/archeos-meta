@@ -85,7 +85,7 @@ Description: ArcheOS tasks for tasksel.
 
 Package: archeos-3d
 Architecture: all
-Depends: blender, cloudcompare, makehuman, meshlab, invesalius, whitedune, ${misc:Depends}
+Depends: blender, makehuman, meshlab, invesalius, whitedune, ${misc:Depends}
 Description: ArcheOS 3D metapackage
  This package depends on all of the packages in the ArcheOS 3D section.
  .
@@ -94,7 +94,7 @@ Description: ArcheOS 3D metapackage
 
 Package: archeos-dendrochronology
 Architecture: all
-Depends: tellervo, ${misc:Depends}
+Depends: ${misc:Depends}
 Description: ArcheOS dendrochronology metapackage
  This package depends on all of the packages in the ArcheOS dendrochronology section.
  .
@@ -121,7 +121,7 @@ Description: ArcheOS GIS metapackage
  
 Package: archeos-hardware
 Architecture: all
-Depends: totalopenstation, cura, ${misc:Depends}
+Depends: totalopenstation, ${misc:Depends}
 Description: ArcheOS hardware metapackage
  This package depends on all of the packages in the ArcheOS hardware section.
  .
@@ -176,7 +176,7 @@ Description: ArcheOS Office metapackage
 
 Package: archeos-photogrammetry
 Architecture: all
-Depends: bundlersfm, cmvspmvs, libvlfeat0, libvlfeat-utils, ppt, ppt-gui, micmac, rectification, ${misc:Depends}
+Depends: libvlfeat0, libvlfeat-utils, micmac, rectification, ${misc:Depends}
 Description: ArcheOS Photogrammetry metapackage
  This package depends on all of the packages in the ArcheOS 
  Photogrammetry section.
