@@ -176,7 +176,7 @@ Description: ArcheOS Office metapackage
 
 Package: archeos-photogrammetry
 Architecture: all
-Depends: libvlfeat0, libvlfeat-utils, micmac, rectification, ${misc:Depends}
+Depends: libvlfeat0, ${misc:Depends}
 Description: ArcheOS Photogrammetry metapackage
  This package depends on all of the packages in the ArcheOS 
  Photogrammetry section.
@@ -204,7 +204,7 @@ Description: ArcheOS Science metapackage
 
 Package: archeos-statistics
 Architecture: all
-Depends: r-base, rstudio, ${misc:Depends}
+Depends: r-base,  ${misc:Depends}
 Description: ArcheOS Statistics metapackage
  This package depends on all of the packages in the ArcheOS Statistics section.
  .
