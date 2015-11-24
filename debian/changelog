@@ -1,4 +1,4 @@
-archeos-meta (6) archeos-next; urgency=medium
+archeos-meta (6.1) archeos-next; urgency=medium
 
   [ Fabrizio Furnari ]
   * invesalius is now on official Debian repos, no need for our (outdated) version
@@ -6,7 +6,9 @@ archeos-meta (6) archeos-next; urgency=medium
 
   [ root ]
 
- -- root <root@archeos>  Mon, 23 Nov 2015 22:16:50 +0000
+  [ Fabrizio Furnari ]
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 24 Nov 2015 13:05:41 +0100
 
 archeos-meta (5.7) theodoric; urgency=medium
 
