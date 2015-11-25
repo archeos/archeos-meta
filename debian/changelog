@@ -1,3 +1,10 @@
+archeos-meta (6.3) archeos-next; urgency=medium
+
+  * Closes #34
+  * closes #35
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Wed, 25 Nov 2015 16:36:17 +0100
+
 archeos-meta (6.2) archeos-next; urgency=medium
 
   [ Luca Bezzi ]
