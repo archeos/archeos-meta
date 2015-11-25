@@ -94,7 +94,7 @@ Description: ArcheOS 3D metapackage
 
 Package: archeos-dendrochronology
 Architecture: all
-Depends: ${misc:Depends}
+Depends: tellervo, ${misc:Depends}
 Description: ArcheOS dendrochronology metapackage
  This package depends on all of the packages in the ArcheOS dendrochronology section.
  .
