@@ -139,7 +139,7 @@ Description: ArcheOS CAD metapackage
 
 Package: archeos-db
 Architecture: all
-Depends: pgadmin3, phppgadmin, postgresql, postgis, sqlite3, sqlitebrowser, spatialite-bin, ${misc:Depends}
+Depends: pgadmin3, phppgadmin, postgresql, postgis, sqlite3, sqlitebrowser, spatialite-bin, spatialite-gui, tellico, ${misc:Depends}
 Description: ArcheOS DB metapackage
  This package depends on all of the packages in the ArcheOS DB section.
  .
