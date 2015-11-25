@@ -130,7 +130,7 @@ Description: ArcheOS hardware metapackage
 
 Package: archeos-cad
 Architecture: all
-Depends: librecad, ${misc:Depends}
+Depends: librecad, freecad, ${misc:Depends}
 Description: ArcheOS CAD metapackage
  This package depends on all of the packages in the ArcheOS CAD section.
  .
