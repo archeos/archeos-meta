@@ -1,3 +1,13 @@
+archeos-meta (6.2) archeos-next; urgency=medium
+
+  [ Luca Bezzi ]
+  * FreeCAD added
+
+  [ Fabrizio Furnari ]
+  * Re-added tellervo
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Wed, 25 Nov 2015 15:44:47 +0100
+
 archeos-meta (6.1) archeos-next; urgency=medium
 
   [ Fabrizio Furnari ]
