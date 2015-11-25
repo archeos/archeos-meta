@@ -121,7 +121,7 @@ Description: ArcheOS GIS metapackage
  
 Package: archeos-hardware
 Architecture: all
-Depends: totalopenstation, ${misc:Depends}
+Depends: totalopenstation, cura, ${misc:Depends}
 Description: ArcheOS hardware metapackage
  This package depends on all of the packages in the ArcheOS hardware section.
  .
