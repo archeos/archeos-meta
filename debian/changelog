@@ -1,11 +1,11 @@
-archeos-meta (6.4) archeos-next; urgency=medium
+archeos-meta (6.4) hypatia; urgency=medium
 
   [ Luca Bezzi ]
   * Added spatialite-gui and tellico
 
   [ Fabrizio Furnari ]
 
- -- Fabrizio Furnari <fab.furnari@gmail.com>  Wed, 25 Nov 2015 17:45:56 +0100
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Fri, 27 Nov 2015 12:04:06 +0100
 
 archeos-meta (6.3) archeos-next; urgency=medium
 
