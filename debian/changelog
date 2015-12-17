@@ -1,3 +1,9 @@
+archeos-meta (6.6) hypatia; urgency=medium
+
+  * added nexus
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Thu, 17 Dec 2015 10:23:10 +0100
+
 archeos-meta (6.5) hypatia; urgency=medium
 
   * changelog
