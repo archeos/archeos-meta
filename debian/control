@@ -186,7 +186,7 @@ Description: ArcheOS Photogrammetry metapackage
  
 Package: archeos-publishing
 Architecture: all
-Depends: texmaker, texlive-fonts-extra, jabref, ipe, scribus, lyx, pandoc, ${misc:Depends}
+Depends: texmaker, texlive-fonts-extra, jabref, ipe, scribus, lyx, pandoc, nexus, ${misc:Depends}
 Description: ArcheOS Publishing metapackage
  This package depends on all of the packages in the ArcheOS Publishing section.
  .
