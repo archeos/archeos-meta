@@ -176,7 +176,7 @@ Description: ArcheOS Office metapackage
 
 Package: archeos-photogrammetry
 Architecture: all
-Depends: libvlfeat0, ${misc:Depends}
+Depends: libvlfeat0, cmvspmvs, ${misc:Depends}
 Description: ArcheOS Photogrammetry metapackage
  This package depends on all of the packages in the ArcheOS 
  Photogrammetry section.
