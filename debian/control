@@ -176,7 +176,7 @@ Description: ArcheOS Office metapackage
 
 Package: archeos-photogrammetry
 Architecture: all
-Depends: bundlersfm, cmvspmvs, libvlfeat0, libvlfeat-utils, ppt, ppt-gui, micmac, rectification, ${misc:Depends}
+Depends: bundlersfm, cmvspmvs, libvlfeat0, libvlfeat-utils, ppt, ppt-gui, micmac, ${misc:Depends}
 Description: ArcheOS Photogrammetry metapackage
  This package depends on all of the packages in the ArcheOS 
  Photogrammetry section.
